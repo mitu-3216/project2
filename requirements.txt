@@ -1,0 +1,5 @@
+streamlit
+python-nmap
+socket
+ipaddress
+regex
